@@ -53,7 +53,7 @@ Caso queira rodar o projeto em sua máquina local, siga os passos abaixo:
 
 1.  *Clone o Repositório:*
     bash
-    git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_PROJETO.git](https://github.com/luizgustavoff/Strava_Clone.git)
+    git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_PROJETO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_PROJETO.git)
     
 2.  *Entre no Diretório:*
     bash
@@ -72,6 +72,8 @@ Caso queira rodar o projeto em sua máquina local, siga os passos abaixo:
     bash
     # Exemplo:
     npm start
+    
+<br><br>
     
 <br><br>
 ## 🛠 Tecnologias Utilizadas
