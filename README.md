@@ -1,1 +1,1 @@
-# Projeto Trace
+# StravaClone
