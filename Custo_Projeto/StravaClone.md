@@ -43,8 +43,8 @@ técnica, depois as engrenagens, finalmente o acabamento e o lançamento.
 
 ## Equipe Necessária (para entregar em 6,5 meses)
 
-Equipe mínima recomendada: - **2 Desenvolvedores Backend** --- R\$
-5.000,00 / mês
+Equipe mínima recomendada: 
+- **2 Desenvolvedores Backend** --- R\$ 5.000,00 / mês
 - **1 Desenvolvedor Frontend/Mobile** --- R\$ 4.000,00 / mês
 - **1 QA/Testador** --- R\$ 3.500,00 / mês
 - **1 Product Owner (P.O.)** --- R\$ 6.000,00 / mês
