@@ -88,13 +88,6 @@ As seguintes ferramentas e tecnologias foram usadas na construção do projeto:<
 * *Infraestrutura/Deployment:*
     (Docker, Vercel)
 <br><br>
-## 🤝 Pessoas Contribuidoras
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-<br>
-* [Nome da Pessoa 1](Link para o perfil)
-* [Nome da Pessoa 2](Link para o perfil)
-<br><br>
 ## 👨‍💻 Pessoas Desenvolvedoras do Projeto
 
 * *[Luigi Hisatsuga]* - [GitHub]([LINK_GITHUB](https://github.com/Luigi-kreator)) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/luigi-hisatsuga-a34014329/))
