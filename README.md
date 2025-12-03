@@ -53,7 +53,7 @@ Caso queira rodar o projeto em sua máquina local, siga os passos abaixo:
 
 1.  *Clone o Repositório:*
     bash
-    git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_PROJETO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_PROJETO.git)
+    git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_PROJETO.git](https://github.com/luizgustavoff/Strava_Clone.git)
     
 2.  *Entre no Diretório:*
     bash
@@ -101,4 +101,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 * *[Luiz Gustavo Fernandes Ferreira]* - [GitHub]([LINK_GITHUB](https://github.com/luizgustavoff)) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/luiz-gustavo-fernandes-ferreira-2538b3264/))
 * *[Lucas Harb de Farias]* - [GitHub]([LINK_GITHUB](https://github.com/LucasHarb)) | [LinkedIn]([LINK_LINKEDIN]https://www.linkedin.com/in/lucas-harb/)
 * *[Pedro Alves de Oliveira]* - [GitHub]([LINK_GITHUB](https://github.com/PedroAlvss)) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/pedro-alves-de-oliveira-699554310/))
-* *[Mateus Alessandro Becassi]* - [GitHub]([LINK_GITHUB](https://github.com/mabecassi)) | [LinkedIn](LINK_LINKEDIN)
+* *[Mateus Alessandro Becassi]* - [GitHub]([LINK_GITHUB](https://github.com/mabecassi)) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/matheus-becassi-76307b330/))
