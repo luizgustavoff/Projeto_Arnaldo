@@ -93,5 +93,5 @@ As seguintes ferramentas e tecnologias foram usadas na construção do projeto:<
 * *[Luigi Hisatsuga]* - [GitHub]([LINK_GITHUB](https://github.com/Luigi-kreator)) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/luigi-hisatsuga-a34014329/))
 * *[Luiz Gustavo Fernandes Ferreira]* - [GitHub]([LINK_GITHUB](https://github.com/luizgustavoff)) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/luiz-gustavo-fernandes-ferreira-2538b3264/))
 * *[Lucas Harb de Farias]* - [GitHub]([LINK_GITHUB](https://github.com/LucasHarb)) | [LinkedIn]([LINK_LINKEDIN]https://www.linkedin.com/in/lucas-harb/)
-* *[Pedro Alves de Oliveira]* - [GitHub]([LINK_GITHUB](https://github.com/PedroAlvss)) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/pedro-alves-de-oliveira-699554310/))
+* *[Pedro Alves de Oliveira]* - [GitHub]([LINK_GITHUB]https://github.com/PedroAlvss) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/pedro-alves-de-oliveira-699554310/))
 * *[Mateus Alessandro Becassi]* - [GitHub](https://github.com/mabecassi) | [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/matheus-becassi-76307b330/))
