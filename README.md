@@ -48,30 +48,32 @@ Nós, da equipe eramos usuários de um aplicativo semelhante no mercado e perceb
 Você pode acessar a versão de interface gráfica do projeto através do link:
 * *StravaClone*]:(https://www.figma.com/make/P1ndLfrQenP6oBt7N0bIiJ/Strava-Inspired-Screens?node-id=0-1&t=GidueDHmkPQAzszU-1)
 
-### ⬇ Instalação Local (Passo a Passo)
+### ⬇️ Instalação Local (Passo a Passo)
 Caso queira rodar o projeto em sua máquina local, siga os passos abaixo:
 
-1.  *Clone o Repositório:*
-    bash
+1.  **Clone o Repositório:**
+    ```bash
     git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_PROJETO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_PROJETO.git)
-    
-2.  *Entre no Diretório:*
-    bash
+    ```
+2.  **Entre no Diretório:**
+    ```bash
     cd NOME_DO_SEU_PROJETO
-    
-3.  *Instale as Dependências:*
-    bash
+    ```
+3.  **Instale as Dependências:**
+    ```bash
     # Exemplo para Node.js:
     npm install
     # Exemplo para Python:
     pip install -r requirements.txt
-    
-4.  *Configure o Banco de Dados (se aplicável):*
+    ```
+4.  **Configure o Banco de Dados (se aplicável):**
     * Instruções específicas sobre DB, variáveis de ambiente, etc.
-5.  *Execute a Aplicação:*
-    bash
+5.  **Execute a Aplicação:**
+    ```bash
     # Exemplo:
     npm start
+    ```
+<br><br>
     
 <br><br>
     
