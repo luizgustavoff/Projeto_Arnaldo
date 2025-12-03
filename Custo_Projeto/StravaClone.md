@@ -44,10 +44,10 @@ técnica, depois as engrenagens, finalmente o acabamento e o lançamento.
 ## Equipe Necessária (para entregar em 6,5 meses)
 
 Equipe mínima recomendada: - **2 Desenvolvedores Backend** --- R\$
-5.000,00/mês\
-- **1 Desenvolvedor Frontend/Mobile** --- R\$ 4.000,00/mês\
-- **1 QA/Testador** --- R\$ 3.500,00/mês\
-- **1 Product Owner (P.O.)** --- R\$ 6.000,00/mês
+5.000,00 / mês
+- **1 Desenvolvedor Frontend/Mobile** --- R\$ 4.000,00 / mês
+- **1 QA/Testador** --- R\$ 3.500,00 / mês
+- **1 Product Owner (P.O.)** --- R\$ 6.000,00 / mês
 
 Total: **4 pessoas em tempo integral + 1 P.O.**
 
@@ -67,11 +67,11 @@ Total possível: **R\$ 13.500 / pessoa**
 
 ### Infraestrutura (Nuvem)
 
--   Backend (API) --- R\$ 350/mês\
--   Banco de Dados --- R\$ 450/mês\
--   Storage --- R\$ 150/mês\
--   CDN --- R\$ 150/mês (1º ano gratuito)\
--   Autenticação --- R\$ 400--700/mês\
+-   Backend (API) --- R\$ 350/mês
+-   Banco de Dados --- R\$ 450/mês
+-   Storage --- R\$ 150/mês
+-   CDN --- R\$ 150/mês (1º ano gratuito)
+-   Autenticação --- R\$ 400--700/mês
 -   Hospedagem --- R\$ 250/mês
 
 **Resumo:** R\$ 1.800 a R\$ 3.500 / mês
@@ -90,7 +90,7 @@ Inclui: - Correções de bugs
 - Atualizações obrigatórias
 - Compatibilidade da API
 
-**Custo anual:** R\$ 45.825 (≈ R\$ 3.820/mês)
+**Custo anual:** R\$ 45.825 (≈ R\$ 3.820 / mês)
 
 ### Suporte ao Cliente (opcional)
 
@@ -100,9 +100,9 @@ Inclui: - Correções de bugs
 
 ## Serviços Terceiros
 
--   Mapas / GPS (Google Maps): R\$ 60 a R\$ 150/mês
--   E-mails (SES, SendGrid): R\$ 30 a R\$ 100/mês
--   Push (OneSignal): R\$ 40 a R\$ 150/mês
+-   Mapas / GPS (Google Maps): R\$ 60 a R\$ 150 / mês
+-   E-mails (SES, SendGrid): R\$ 30 a R\$ 100 / mês
+-   Push (OneSignal): R\$ 40 a R\$ 150 / mês
 -   Analytics (Mixpanel, Amplitude): Gratuito
 
 ------------------------------------------------------------------------
