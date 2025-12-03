@@ -84,10 +84,10 @@ Total possível: **R\$ 13.500 / pessoa**
 
 ## Manutenção Técnica (pós-lançamento)
 
-Inclui: - Correções de bugs\
-- Ajustes\
-- Monitoramento\
-- Atualizações obrigatórias\
+Inclui: - Correções de bugs
+- Ajustes
+- Monitoramento
+- Atualizações obrigatórias
 - Compatibilidade da API
 
 **Custo anual:** R\$ 45.825 (≈ R\$ 3.820/mês)
@@ -100,15 +100,15 @@ Inclui: - Correções de bugs\
 
 ## Serviços Terceiros
 
--   Mapas / GPS (Google Maps): R\$ 60 a R\$ 150/mês\
--   E-mails (SES, SendGrid): R\$ 30 a R\$ 100/mês\
--   Push (OneSignal): R\$ 40 a R\$ 150/mês\
+-   Mapas / GPS (Google Maps): R\$ 60 a R\$ 150/mês
+-   E-mails (SES, SendGrid): R\$ 30 a R\$ 100/mês
+-   Push (OneSignal): R\$ 40 a R\$ 150/mês
 -   Analytics (Mixpanel, Amplitude): Gratuito
 
 ------------------------------------------------------------------------
 
 ## Resumo Final dos Custos Operacionais
 
--   **Cenário mínimo:** R\$ 12.000 a R\$ 20.000 / ano\
--   **Cenário recomendado:** R\$ 45.000 a R\$ 75.000 / ano\
+-   **Cenário mínimo:** R\$ 12.000 a R\$ 20.000 / ano
+-   **Cenário recomendado:** R\$ 45.000 a R\$ 75.000 / ano
 -   **Cenário grande escala:** R\$ 90.000 a R\$ 160.000 / ano
